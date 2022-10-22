@@ -1,6 +1,6 @@
 # PlaneWar
 用QT框架写的小游戏——飞机大战
-看的是知乎上的一篇文章，跟着坐下来，目的是为了熟悉QT的使用（其实也没有很熟悉
+看的是知乎上的一篇文章，跟着做下来，目的是为了熟悉QT的使用（其实也没有很熟悉
 
 大概就是这样
 ![image](https://user-images.githubusercontent.com/88576688/197334244-fb925684-8146-4abc-ab70-edf1dcffba4a.png)
